@@ -1,4 +1,4 @@
-drop table users;
+drop table if exists users;
 
 CREATE TABLE users (
     id SERIAL PRIMARY KEY,

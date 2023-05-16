@@ -1,1 +1,1 @@
-from .restaurant import Restaurant
+from .bartender import Bartender
